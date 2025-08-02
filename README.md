@@ -69,19 +69,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=FF00F6&center=true&vCenter=true&width=800&height=60&lines=🎯+我的标签+%2F+MY+TAGS+🎯;👾+CYBER+CODER+✨+CREATIVE+MIND;🔮+AI+EXPLORER+⛓️+WEB3+BUILDER" />
   
   <!-- 技能标签展示 -->
-  <div align="center">
-    
-    <img src="https://img.shields.io/badge/💻_Full_Stack_Dev-9E5FFF?style=for-the-badge&labelColor=0D1117" alt="Full Stack Dev" />
-    <img src="https://img.shields.io/badge/🤖_AI_&_ML_Expert-00FFFF?style=for-the-badge&labelColor=0D1117" alt="AI & ML Expert" />
-    <img src="https://img.shields.io/badge/⛓️_Blockchain_Pioneer-FF6EC7?style=for-the-badge&labelColor=0D1117" alt="Blockchain Pioneer" />
-    
-    <br><br>
-    
-    <img src="https://img.shields.io/badge/🎨_UI/UX_Designer-FFD700?style=for-the-badge&labelColor=0D1117" alt="UI/UX Designer" />
-    <img src="https://img.shields.io/badge/🔧_DevOps_Engineer-00FF7F?style=for-the-badge&labelColor=0D1117" alt="DevOps Engineer" />
-    <img src="https://img.shields.io/badge/🌈_ACG_Creator-FF4500?style=for-the-badge&labelColor=0D1117" alt="ACG Creator" />
-    
-  </div>
+  <p align="center">
+    <img src="https://img.shields.io/badge/🐹_Go_Developer-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Developer" />
+    <img src="https://img.shields.io/badge/🐍_Python_Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Expert" />
+    <img src="https://img.shields.io/badge/⛓️_Blockchain-FF6B6B?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain" />
+  </p>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/🔗_Web3-4CAF50?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3" />
+    <img src="https://img.shields.io/badge/💎_DeFi-9C27B0?style=for-the-badge&logo=ethereum&logoColor=white" alt="DeFi" />
+    <img src="https://img.shields.io/badge/🎨_NFT_Creator-FF9800?style=for-the-badge&logo=opensea&logoColor=white" alt="NFT Creator" />
+  </p>
   
   <!-- 动态边框效果 -->
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -119,28 +117,15 @@
 <div align="center">
 
 <details>
-<summary><b>🤖 AI / 多模态建模</b></summary>
+<summary><b>🐹 Go / 后端开发</b></summary>
 <br>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Transformers](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TTS](https://img.shields.io/badge/TTS-Coqui%2FESPnet-%23FF90C0?style=for-the-badge)
-
-</details>
-
-<details>
-<summary><b>🧠 模型调试 & 推理部署</b></summary>
-<br>
-
-![PEFT/LoRA](https://img.shields.io/badge/LoRA%20%2F%20PEFT-9058FF?style=for-the-badge)
-![Tokenizers](https://img.shields.io/badge/Tokenizers-BERT%2FGPT-green?style=for-the-badge)
-![vLLM](https://img.shields.io/badge/vLLM-Inference-blue?style=for-the-badge)
-![Exllama](https://img.shields.io/badge/Exllama-LightSpeed-orange?style=for-the-badge)
-![Gradio](https://img.shields.io/badge/Gradio-FFB86C?style=for-the-badge&logo=gradio)
-![Ollama](https://img.shields.io/badge/Ollama-2024%20LocalLLM-3cb371?style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-1E88E5?style=for-the-badge&logo=grpc&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </details>
 
@@ -150,6 +135,7 @@
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFD700?style=for-the-badge&logo=nodedotjs&logoColor=black)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 ![Metamask](https://img.shields.io/badge/Metamask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
@@ -157,26 +143,28 @@
 </details>
 
 <details>
-<summary><b>🧱 后端开发</b></summary>
+<summary><b>🤖 AI / 多模态建模</b></summary>
 <br>
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-1E88E5?style=for-the-badge&logo=grpc&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-3cb371?style=for-the-badge)
 
 </details>
 
 <details>
-<summary><b>🎨 前端开发</b></summary>
+<summary><b>🎨 Web3 前端开发</b></summary>
 <br>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-EF476F?style=for-the-badge&logo=framer&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+![RainbowKit](https://img.shields.io/badge/RainbowKit-FF6B6B?style=for-the-badge&logo=rainbow&logoColor=white)
+![Wagmi](https://img.shields.io/badge/Wagmi-000000?style=for-the-badge&logo=ethereum&logoColor=white)
 
 </details>
 
