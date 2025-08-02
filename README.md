@@ -71,13 +71,15 @@
   <!-- 技能标签展示 -->
   <div align="center">
     
-    ![Skill 1](https://img.shields.io/badge/💻_Full_Stack_Dev-9E5FFF?style=for-the-badge&labelColor=0D1117)
-    ![Skill 2](https://img.shields.io/badge/🤖_AI_&_ML_Expert-00FFFF?style=for-the-badge&labelColor=0D1117)
-    ![Skill 3](https://img.shields.io/badge/⛓️_Blockchain_Pioneer-FF6EC7?style=for-the-badge&labelColor=0D1117)
+    <img src="https://img.shields.io/badge/💻_Full_Stack_Dev-9E5FFF?style=for-the-badge&labelColor=0D1117" alt="Full Stack Dev" />
+    <img src="https://img.shields.io/badge/🤖_AI_&_ML_Expert-00FFFF?style=for-the-badge&labelColor=0D1117" alt="AI & ML Expert" />
+    <img src="https://img.shields.io/badge/⛓️_Blockchain_Pioneer-FF6EC7?style=for-the-badge&labelColor=0D1117" alt="Blockchain Pioneer" />
     
-    ![Skill 4](https://img.shields.io/badge/🎨_UI/UX_Designer-FFD700?style=for-the-badge&labelColor=0D1117)
-    ![Skill 5](https://img.shields.io/badge/🔧_DevOps_Engineer-00FF7F?style=for-the-badge&labelColor=0D1117)
-    ![Skill 6](https://img.shields.io/badge/🌈_ACG_Creator-FF4500?style=for-the-badge&labelColor=0D1117)
+    <br><br>
+    
+    <img src="https://img.shields.io/badge/🎨_UI/UX_Designer-FFD700?style=for-the-badge&labelColor=0D1117" alt="UI/UX Designer" />
+    <img src="https://img.shields.io/badge/🔧_DevOps_Engineer-00FF7F?style=for-the-badge&labelColor=0D1117" alt="DevOps Engineer" />
+    <img src="https://img.shields.io/badge/🌈_ACG_Creator-FF4500?style=for-the-badge&labelColor=0D1117" alt="ACG Creator" />
     
   </div>
   
@@ -269,8 +271,8 @@
   <!-- 3D星标呼吁 -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF69B4&background=0D1117&center=true&vCenter=true&width=800&height=40&lines=✨+如果你觉得我的项目有趣，不妨给个+⭐+Star！+✨;🎯+每个+Star+都是对创新的支持！+🎯;💝+Your+support+powers+my+creativity!+💝" />
   
-  <!-- 贪吃蛇动画（增强版） -->
-  <img src="https://github.com/GhostInTheSheep/GhostInTheSheep/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <!-- 活动图表 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GhostInTheSheep&bg_color=0D1117&color=ffffff&line=9e5fff&point=00c2ff&area=true&hide_border=true&theme=github-dark" alt="Activity Graph" width="100%" />
   
   <!-- 动态统计展示 -->
   <table align="center">
